@@ -7,7 +7,7 @@
     <description>PDF Signer for Cordova/Phonegap</description>
     <license>AGPL version 3.0</license>
     <keywords>key,pki,pdf,security</keywords>
-    <repo>https://github.com/kodekreatif/cordova-plugin-pdfdigisign</repo>
+    <repo>https://github.com/chrisg2204/cordova-plugin-pdfdigisign.git</repo>
     
     <js-module src="www/pdfDigiSign.js" name="PDFDigiSign">
         <clobbers target="PDFDigiSign" />
